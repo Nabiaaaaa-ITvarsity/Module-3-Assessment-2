@@ -1,0 +1,191 @@
+body{
+    background-image: url('images/background.jpg');
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/*========== HEADER ==========*/
+
+.header i{
+    float: left;
+    padding: 1px 0px 0px 0px;
+    color: #ffffff;
+}
+
+/*========== HOME PAGE ==========*/
+
+#home-logo-img{
+    width: 200px;
+    display: block;
+    margin: auto;
+    padding: 25px 10px 10px 10px;
+}
+
+/*===== HOME PAGE MENU =====*/
+
+.home-menu-item{
+    text-decoration: none;
+    text-transform: uppercase;
+    
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    border: 5px solid white;
+    
+    display: block;
+    margin: auto;
+    margin-bottom: 10px;
+    width: 80%;
+}
+
+/*===== MEALS PAGE MENU =====*/
+
+.meals-list a{
+    text-decoration: none;
+}
+
+.meals-list-item{
+    border: 5px solid darkslategrey;
+    margin: 10px;
+}
+
+.meals-list-item h1{
+    font-weight: bold;
+    font-size: 20px;
+    color: white;
+    padding-left: 10px;
+}
+
+.meals-list-item i{
+    float: right;
+    color: #ffffff;
+    padding-right: 10px;
+}
+
+.meals-list-item p{
+    font-size: 15px;
+    font-style: italic;
+    color: forestgreen;
+    margin-top: -7px;
+    padding-left: 10px;
+}
+
+/*===== RECIPE DETAILS =====*/
+
+.menu-details img{
+    width: 75%;
+    padding-left: 11%;
+}
+
+.menu-details h1{
+    font-size: 25px;
+    text-align: center;
+    border: 5px solid darkslategrey;
+    margin: 10px;
+    padding: 5px;
+    color: mediumpurple;
+}
+
+.menu-details h2{
+    font-size: 20px;
+    text-align: left;
+    margin: 0;
+    margin-left: 10px;
+    color: white;
+}
+
+.menu-details-info{
+    margin-left: 25px;
+    margin-right: 25px;
+    color: #ffffff;
+    text-align: center;
+}
+
+.menu-details-info p{
+    font-size: 20px;
+    display: inline-block;
+    color: #ffffff;
+}
+
+.menu-details-options label{
+    line-height: 25px;
+    margin-left: 10px;
+    color: white;
+}
+
+.menu-details-steps{
+    padding-top: 20px;
+    color: white;
+}
+
+.menu-details-steps ol{
+    padding-left: 28px;
+}
+
+/*=========== EXTRAS PAGE ==========*/
+
+.second{
+    color: mediumpurple;
+    border: 5px solid darkslategrey;
+    margin-left: 20px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+ul{
+    color: #ffffff;
+}
+
+/*============ INFO BOX FULL ============*/
+
+#info-box-full{
+    display: block;
+    margin: auto;
+    margin-top: 20px;
+    padding: 10px;
+    color: #ffffff;
+    text-align: center;
+}
+
+#info-box-full img{
+    width: 25%;
+    text-align: center;
+}
+
+#info-box-full h3{
+    text-align: center;
+}
+
+/*=========== PLACE ORDER BUTTON ===========*/
+
+.button{
+    display: block;
+    width: 50%;
+    background-color: darkslategrey;
+    text-decoration: none;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    font-weight: 600;
+    margin: 12px o;
+    padding: 8px o;
+    height: 50px;
+    padding-top: 25px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
